@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "crypto-alexa-executor",
+    "name": "crypto-alexa",
+    "region": "us-east-1"
+  }
+}
